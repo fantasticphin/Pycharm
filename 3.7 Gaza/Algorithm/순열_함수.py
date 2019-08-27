@@ -4,6 +4,7 @@ for p in itertools.permutations(range(N)):
     for i in range(N):
         print(p[i], end = " ")
     print()
+print()
 
 N = 4
 R = 3
