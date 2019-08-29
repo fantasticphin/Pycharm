@@ -1,3 +1,6 @@
+import sys
+sys.stdin = open('hour.txt')
+
 for t in range(int(input())):
     s = 0
     n = list(map(int, input().split()))
@@ -9,4 +12,4 @@ for t in range(int(input())):
     n[0] %= 12
     if not n[0]:
         n[0] = 12
-    print('#{} [} {}'.format(t+1, n[0], n[1]))
+    print('#{} {} {}'.format(t+1, n[0], n[1]))
