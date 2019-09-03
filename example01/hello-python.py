@@ -43,14 +43,24 @@ for i in range(0,5):
         print("%d번 학생은 "%b+"%d점으로 불합격입니다."%a[i])
 '''
 
-a=[85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
-sum=0
-i=0
-while(i<len(a)):
-    if a[i]<80:
-        a.pop(i)
-    i=i+1
+# a=[85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+# sum=0
+# i=0
+# while(i<len(a)):
+#     if a[i]<80:
+#         a.pop(i)
+#     i=i+1
+#
+# for i in a[]:
+#     sum+=a[i]
+# print(sum)
 
-for i in a[]:
-    sum+=a[i]
-print(sum)
+a = 5
+for i in range(a):
+    for j in range(i):
+        print('*', end="")
+    print()
+for x in range(a, 0, -1):
+    for y in range(x):
+        print('*', end='')
+    print()
