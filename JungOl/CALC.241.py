@@ -1,0 +1,6 @@
+a,b = map(int, input().split())
+print('{} + {} -> {}'.format(a,b,a+b))
+print('{} - {} -> {}'.format(a,b,a-b))
+print('{} * {} -> {}'.format(a,b,a*b))
+print('{} / {} -> {}'.format(a,b,int(a/b)))
+print('{} % {} -> {}'.format(a,b,a%b))
