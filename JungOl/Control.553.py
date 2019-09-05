@@ -1,4 +1,6 @@
 n = int(input())
-for i in range(n,0,-1):
-    for j in range(65, 71):
-        print(chr(j))
+alpha = 'ABCDEF'
+
+for i in range(n):
+    for j in range(n-i):
+        print(n[j])
