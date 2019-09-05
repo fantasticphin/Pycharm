@@ -2,31 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.255.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.260.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.261.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.262.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/Control.263.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/control.129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JungOl/control.132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA D2/Array_Spin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA D2/Array_Spin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA D2/Crop_Harvest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teachers Solution/09.04/중복조합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungOl/Control.264.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungOl/Control.267.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungOl/Control.268.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungOl/Control.553.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JungOl/control.266.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.03.Teachers Solution/(2001)파리퇴치.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.03.Teachers Solution/(4615)재미있는오셀로게임.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.03.Teachers Solution/(6190)정곤이의단조증가하는수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +61,7 @@
     <session id="1508246724">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="7" />
           <entry key="project.open.time.3" value="2" />
@@ -89,27 +71,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Crop_Harvest" value="1" />
-          <entry key="py" value="107" />
+          <entry key="py" value="113" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="107" />
+          <entry key="Python" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="py" value="21771" />
+          <entry key="py" value="22755" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="21771" />
+          <entry key="Python" value="22755" />
         </counts>
       </usages-collector>
     </session>
@@ -117,10 +99,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JungOl/Control.263.py">
+        <entry file="file://$PROJECT_DIR$/JungOl/Control.553.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -146,11 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JungOl/Calc.111.py" />
-        <option value="$PROJECT_DIR$/JungOl/Calc.112.py" />
-        <option value="$PROJECT_DIR$/JungOl/Calc.113.py" />
-        <option value="$PROJECT_DIR$/JungOl/calc.114.py" />
-        <option value="$PROJECT_DIR$/JungOl/calc.115.py" />
         <option value="$PROJECT_DIR$/JungOl/CALC.241.py" />
         <option value="$PROJECT_DIR$/JungOl/calc.252.py" />
         <option value="$PROJECT_DIR$/JungOl/calc.242.py" />
@@ -189,7 +166,6 @@
         <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.txt" />
         <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.py" />
         <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.txt" />
-        <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.135.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.136.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.137.py" />
@@ -197,6 +173,12 @@
         <option value="$PROJECT_DIR$/JungOl/Control.139.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.262.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.263.py" />
+        <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" />
+        <option value="$PROJECT_DIR$/JungOl/Control.264.py" />
+        <option value="$PROJECT_DIR$/JungOl/control.266.py" />
+        <option value="$PROJECT_DIR$/JungOl/Control.267.py" />
+        <option value="$PROJECT_DIR$/JungOl/Control.268.py" />
+        <option value="$PROJECT_DIR$/JungOl/Control.553.py" />
       </list>
     </option>
   </component>
@@ -224,11 +206,6 @@
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
               <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="JungOl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -251,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Control.263">
-    <configuration name="Control.137" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Control.553">
+    <configuration name="Control.264" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.137.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.264.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Control.138" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Control.267" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.138.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.267.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Control.139" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Control.268" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.139.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.268.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Control.262" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Control.553" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,7 +304,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.262.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.553.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Control.263" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="control.266" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,7 +325,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/Control.263.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JungOl/control.266.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,19 +335,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Control.137" />
-      <item itemvalue="Python.Control.138" />
-      <item itemvalue="Python.Control.139" />
-      <item itemvalue="Python.Control.262" />
-      <item itemvalue="Python.Control.263" />
+      <item itemvalue="Python.Control.264" />
+      <item itemvalue="Python.control.266" />
+      <item itemvalue="Python.Control.267" />
+      <item itemvalue="Python.Control.268" />
+      <item itemvalue="Python.Control.553" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Control.263" />
-        <item itemvalue="Python.Control.262" />
-        <item itemvalue="Python.Control.139" />
-        <item itemvalue="Python.Control.138" />
-        <item itemvalue="Python.Control.137" />
+        <item itemvalue="Python.Control.553" />
+        <item itemvalue="Python.Control.268" />
+        <item itemvalue="Python.Control.267" />
+        <item itemvalue="Python.control.266" />
+        <item itemvalue="Python.Control.264" />
       </list>
     </recent_temporary>
   </component>
@@ -391,17 +368,17 @@
     <frame x="914" y="12" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22542734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22542734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24561404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24561404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30701753" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.26535088" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -409,6 +386,32 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -465,41 +468,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JungOl/Calc.112.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/Calc.113.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/calc.114.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/calc.115.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/CALC.241.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JungOl/calc.242.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -765,13 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA D2/Crop_Harvest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JungOl/Control.135.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -818,6 +779,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D2/Crop_Harvest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungOl/Control.264.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungOl/control.266.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungOl/Control.267.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungOl/Control.268.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JungOl/Control.553.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
