@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="'10.Sep.2019 update'">
+    <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="'11.Sep.2019 update'">
+      <change afterPath="$PROJECT_DIR$/Python APplication/Bit calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python APplication/Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python APplication/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/류재헌_0910.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,49 +105,49 @@
         <counts>
           <entry key="Binary_Heap" value="1" />
           <entry key="Binarysearch" value="1" />
-          <entry key="py" value="59" />
-          <entry key="txt" value="14" />
+          <entry key="py" value="61" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="59" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6421" />
-          <entry key="txt" value="94" />
+          <entry key="py" value="8142" />
+          <entry key="txt" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="94" />
-          <entry key="Python" value="6421" />
+          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="Python" value="8142" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python APplication/Input.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <marker date="1568103873476" expanded="true" signature="53:382" ph="..." />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/사칙연산.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python APplication/Bit calc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="221">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <marker date="1568183270916" expanded="true" signature="19:26" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,14 +169,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.txt" />
-        <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.py" />
-        <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.txt" />
-        <option value="$PROJECT_DIR$/JungOl/Control.135.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.136.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.137.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.138.py" />
@@ -224,6 +225,10 @@
         <option value="$PROJECT_DIR$/3.7 Gaza/Heap/힙.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Sachik.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" />
+        <option value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/사칙연산.py" />
+        <option value="$PROJECT_DIR$/Python APplication/Input.py" />
+        <option value="$PROJECT_DIR$/Python APplication/input.txt" />
+        <option value="$PROJECT_DIR$/Python APplication/Bit calc.py" />
       </list>
     </option>
   </component>
@@ -244,22 +249,6 @@
             <path>
               <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="류재헌_0910_Tree.Heap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,28 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D4.1232.SACHIK">
-    <configuration name="힙" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Heap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Heap/힙.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Bit calc">
     <configuration name="Binary_Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,6 +321,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Bit calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python APplication" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python APplication/Bit calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="D4.1232.SACHIK" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -374,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Node_Addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,11 +371,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python APplication" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Node_Addition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python APplication/Input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,18 +386,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Binarysearch" />
-      <item itemvalue="Python.Node_Addition" />
       <item itemvalue="Python.Binary_Heap" />
-      <item itemvalue="Python.힙" />
       <item itemvalue="Python.D4.1232.SACHIK" />
+      <item itemvalue="Python.Input" />
+      <item itemvalue="Python.Bit calc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Bit calc" />
+        <item itemvalue="Python.Input" />
         <item itemvalue="Python.D4.1232.SACHIK" />
         <item itemvalue="Python.Binary_Heap" />
         <item itemvalue="Python.Binarysearch" />
-        <item itemvalue="Python.힙" />
-        <item itemvalue="Python.Node_Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -451,19 +440,33 @@
       <option name="project" value="LOCAL" />
       <updated>1568103865297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="'10.Sep.2019 update'">
+      <created>1568166055588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568166055588</updated>
+    </task>
+    <task id="LOCAL-00006" summary="'11.Sep.2019 update'">
+      <created>1568166291049</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568166291049</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1741453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1741453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24451755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24451755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30592105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,7 +531,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'09.Sep.2019 update'" />
     <MESSAGE value="'10.Sep.2019 update'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'10.Sep.2019 update'" />
+    <MESSAGE value="'11.Sep.2019 update'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'11.Sep.2019 update'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,27 +590,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA D2/sudoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.05/(2805)농작물 수확하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.05/(1974)스도쿠검증.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/ladder.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -909,19 +892,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/사칙연산.py">
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1568166036870" expanded="true" signature="53:382" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py">
+    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/사칙연산.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="558">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python APplication/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python APplication/Input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python APplication/Bit calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
-            <marker date="1568103873476" expanded="true" signature="53:382" ph="..." />
+            <marker date="1568183270916" expanded="true" signature="19:26" ph="..." />
           </folding>
         </state>
       </provider>
