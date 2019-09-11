@@ -9,7 +9,7 @@ def postOrder(node):
         num[node] = calc(oper[node], a, b)
         return num[node]  # 노드에 저장된 값을 반환
 
-def calc(op, left, right):
+def calc(op, left, right): #연산자 대비 좌측 우측 합산, 뺴기, 곱셈, 나눗셈
     if op == '+':
         result = left + right
     elif op == '-':
