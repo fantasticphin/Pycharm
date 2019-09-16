@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="'11.Sep.2019 update'">
-      <change afterPath="$PROJECT_DIR$/Python APplication/Bit calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python APplication/Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python APplication/input.txt" afterDir="false" />
+    <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,36 +98,37 @@
     <session id="-104363078">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Binary_Heap" value="1" />
           <entry key="Binarysearch" value="1" />
-          <entry key="py" value="61" />
-          <entry key="txt" value="16" />
+          <entry key="py" value="66" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="61" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8142" />
+          <entry key="py" value="10485" />
           <entry key="txt" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="107" />
-          <entry key="Python" value="8142" />
+          <entry key="Python" value="10485" />
         </counts>
       </usages-collector>
     </session>
@@ -132,21 +136,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python APplication/Input.py">
+        <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="1247">
+              <caret line="306" selection-start-line="306" selection-end-line="306" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python APplication/Bit calc.py">
+        <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="36" selection-end-column="72" />
               <folding>
-                <marker date="1568183270916" expanded="true" signature="19:26" ph="..." />
+                <marker date="1568617144327" expanded="true" signature="82:469" ph="..." />
               </folding>
             </state>
           </provider>
@@ -178,12 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JungOl/Control.136.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.137.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.138.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.139.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.262.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.263.py" />
         <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.264.py" />
         <option value="$PROJECT_DIR$/JungOl/control.266.py" />
@@ -229,11 +227,18 @@
         <option value="$PROJECT_DIR$/Python APplication/Input.py" />
         <option value="$PROJECT_DIR$/Python APplication/input.txt" />
         <option value="$PROJECT_DIR$/Python APplication/Bit calc.py" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_1.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_1.py" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="862" />
+    <option name="y" value="68" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -242,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,10 +254,16 @@
               <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
+              <item name="류재헌_0916_Start" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bit calc">
-    <configuration name="Binary_Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Binary_Passcode">
+    <configuration name="Binary_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Binary_Heap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Binary_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,11 +318,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Binarysearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary_Passcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,27 +365,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python APplication/Bit calc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="D4.1232.SACHIK" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binarysearch" />
-      <item itemvalue="Python.Binary_Heap" />
-      <item itemvalue="Python.D4.1232.SACHIK" />
       <item itemvalue="Python.Input" />
       <item itemvalue="Python.Bit calc" />
+      <item itemvalue="Python.Binary_1" />
+      <item itemvalue="Python.Binary_2" />
+      <item itemvalue="Python.Binary_Passcode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Binary_Passcode" />
+        <item itemvalue="Python.Binary_2" />
+        <item itemvalue="Python.Binary_1" />
         <item itemvalue="Python.Bit calc" />
         <item itemvalue="Python.Input" />
-        <item itemvalue="Python.D4.1232.SACHIK" />
-        <item itemvalue="Python.Binary_Heap" />
-        <item itemvalue="Python.Binarysearch" />
       </list>
     </recent_temporary>
   </component>
@@ -454,11 +464,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568166291049</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="'11.Sep.2019 update'">
+      <created>1568184054869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568184054869</updated>
+    </task>
+    <task id="LOCAL-00008" summary="'11.Sep.2019 update'">
+      <created>1568185028425</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568185028425</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="862" y="68" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1741453" />
@@ -590,30 +614,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/ladder.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/SWEA/Connect.Numbers.py" />
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Listing.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/number.connect.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/maze.swea.algorithm.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Ladder2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Ladder2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -667,13 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
         </state>
       </provider>
     </entry>
@@ -869,9 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,9 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -896,9 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1568166036870" expanded="true" signature="53:382" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -925,10 +909,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python APplication/Bit calc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="634">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="36" selection-end-column="72" />
           <folding>
-            <marker date="1568183270916" expanded="true" signature="19:26" ph="..." />
+            <marker date="1568617144327" expanded="true" signature="82:469" ph="..." />
           </folding>
         </state>
       </provider>
