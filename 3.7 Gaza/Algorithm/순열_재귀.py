@@ -13,4 +13,3 @@ def perm(n, k):
 
 arr = [1,2,3]
 perm(3, 0)
-

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.7 Gaza/DFS &amp; BFS/DFS_BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Iteration_Recursion/Iterations_Recursions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,55 +106,32 @@
         <counts>
           <entry key="Binary_Heap" value="1" />
           <entry key="Binarysearch" value="1" />
-          <entry key="py" value="73" />
-          <entry key="txt" value="20" />
+          <entry key="py" value="75" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="73" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="13829" />
-          <entry key="txt" value="109" />
+          <entry key="py" value="14463" />
+          <entry key="txt" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="109" />
-          <entry key="Python" value="13829" />
+          <entry key="PLAIN_TEXT" value="110" />
+          <entry key="Python" value="14463" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Iteration_Recursion/Iterations_Recursions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
-              <folding>
-                <marker date="1568705227986" expanded="true" signature="709:716" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="832:839" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="832:916" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="1368:1720" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="1766:1773" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="2003:2102" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="2120:2127" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="2415:2422" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="2519:2526" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="3130:3320" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="3336:3343" ph="..." />
-                <marker date="1568705227986" expanded="true" signature="3469:3476" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_가지치기.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -165,7 +141,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -173,11 +153,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="285">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15390">
+              <caret line="810" column="26" lean-forward="true" selection-start-line="810" selection-start-column="26" selection-end-line="810" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -208,9 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JungOl/Control.268.py" />
-        <option value="$PROJECT_DIR$/SWEA D2/Sudo.txt" />
-        <option value="$PROJECT_DIR$/SWEA D2/Sudo.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/SWEA/Connect.Numbers.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/number.connect.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Ladder2.txt" />
@@ -259,6 +254,9 @@
         <option value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode2.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/DFS &amp; BFS/DFS_BFS.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Iteration_Recursion/Iterations_Recursions.py" />
+        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt" />
+        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py" />
+        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" />
       </list>
     </option>
   </component>
@@ -319,28 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.부분집합_완전">
-    <configuration name="Binary_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.동철이_일_분배">
     <configuration name="Binary_Passcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -425,20 +402,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="동철이_일_분배" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Binary_2" />
       <item itemvalue="Python.Binary_Passcode" />
       <item itemvalue="Python.Binary_Passcode2" />
       <item itemvalue="Python.Iterations_Recursions" />
       <item itemvalue="Python.부분집합_완전" />
+      <item itemvalue="Python.동철이_일_분배" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.동철이_일_분배" />
         <item itemvalue="Python.부분집합_완전" />
         <item itemvalue="Python.Iterations_Recursions" />
         <item itemvalue="Python.Binary_Passcode2" />
         <item itemvalue="Python.Binary_Passcode" />
-        <item itemvalue="Python.Binary_2" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568620456549</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="'17.Sep.2019 update'">
+      <created>1568706394816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568706394816</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -528,8 +533,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24451755" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30592105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24451755" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30592105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -595,7 +600,8 @@
     <MESSAGE value="'10.Sep.2019 update'" />
     <MESSAGE value="'11.Sep.2019 update'" />
     <MESSAGE value="'16.Sep.2019 update'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'16.Sep.2019 update'" />
+    <MESSAGE value="'17.Sep.2019 update'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'17.Sep.2019 update'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,20 +659,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="712" selection-start-line="712" selection-end-line="712" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/Control.141.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JungOl/Array.555.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -984,21 +976,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15390">
+          <caret line="810" column="26" lean-forward="true" selection-start-line="810" selection-start-column="26" selection-end-line="810" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_함수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_가지치기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-121" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_함수.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="285">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
