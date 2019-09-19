@@ -36,7 +36,7 @@ A = [11, 45, 22, 81, 23, 34, 99, 17, 8]
 #         else:
 #             equal_arr.append(num)
 #     return quick_sort(lesser_arr) + equal_arr + quick_sort(greater_arr)
-def 빠정(a):
+def quicky(a):
     if len(a) <= 1: return a
 
     pivot = a[len(a)//2]
@@ -48,7 +48,7 @@ def 빠정(a):
             great.append(x)
         else:
             cent.append(x)
-    return 빠정(less) + cent + 빠정(great)
+    return quicky(less) + cent + quicky(great)
 
 
 # def quick_sort(arr):
@@ -74,4 +74,6 @@ def 빠정(a):
 #
 #     return sort(0, len(arr) - 1)
 
-print(빠정(A))
+# print(빠정(A))
+
+#이진 검색
