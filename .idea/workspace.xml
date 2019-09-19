@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Container.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Docking.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/electric_cart.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/min_addition.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_도킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_전자카트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_최소합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_컨테이너.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,92 +100,43 @@
     <session id="-104363078">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Binary_Heap" value="1" />
           <entry key="Binarysearch" value="1" />
-          <entry key="py" value="75" />
-          <entry key="txt" value="22" />
+          <entry key="py" value="107" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="75" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="14463" />
+          <entry key="py" value="17246" />
           <entry key="txt" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="110" />
-          <entry key="Python" value="14463" />
+          <entry key="Python" value="17246" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_가지치기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_함수.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15390">
-              <caret line="810" column="26" lean-forward="true" selection-start-line="810" selection-start-column="26" selection-end-line="810" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -206,15 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/SWEA/Connect.Numbers.py" />
-        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/number.connect.txt" />
-        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Ladder2.txt" />
-        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Ladder2.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.634.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.550.py" />
-        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/number.connect.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.551.py" />
-        <option value="$PROJECT_DIR$/JungOl/Control.140.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Number.arrange.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.552.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.553.py" />
@@ -257,12 +204,22 @@
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/min_addition.txt" />
+        <option value="$PROJECT_DIR$/Teachers Solution/완전검색/순열2.py" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_최소합.py" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/electric_cart.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Container.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_컨테이너.py" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_전자카트.py" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Docking.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_도킹.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="550" />
+    <option name="y" value="70" />
+    <option name="width" value="1084" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -280,13 +237,18 @@
             <path>
               <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
+              <item name="Teachers Solution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Teachers Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="완전검색" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
+              <item name="류재헌_0918_완전검색_탐욕 알고리즘" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,7 +280,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.동철이_일_분배">
-    <configuration name="Binary_Passcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="응용_D3_최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,11 +288,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_최소합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary_Passcode2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="응용_D3_전자카트" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,11 +309,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0916_Start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0916_Start/Binary_Passcode2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_전자카트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iterations_Recursions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="응용_D3_컨테이너" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,11 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Iteration_Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Iteration_Recursion/Iterations_Recursions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_컨테이너.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="부분집합_완전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="응용_D3_도킹" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,11 +351,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_도킹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,19 +386,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary_Passcode" />
-      <item itemvalue="Python.Binary_Passcode2" />
-      <item itemvalue="Python.Iterations_Recursions" />
-      <item itemvalue="Python.부분집합_완전" />
       <item itemvalue="Python.동철이_일_분배" />
+      <item itemvalue="Python.응용_D3_최소합" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.응용_D3_최소합" />
         <item itemvalue="Python.동철이_일_분배" />
-        <item itemvalue="Python.부분집합_완전" />
-        <item itemvalue="Python.Iterations_Recursions" />
-        <item itemvalue="Python.Binary_Passcode2" />
-        <item itemvalue="Python.Binary_Passcode" />
       </list>
     </recent_temporary>
   </component>
@@ -521,20 +477,26 @@
       <option name="project" value="LOCAL" />
       <updated>1568706394816</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="'17.Sep.2019 update'">
+      <created>1568710664102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568710664102</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="550" y="70" width="1084" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1741453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15583174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24451755" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30592105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30592105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -552,7 +514,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24451755" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24451755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30592105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -659,152 +621,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JungOl/Array.555.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/Array.556.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JungOl/Array.558.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Number.arrange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/Tree_Basic.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/In_order.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/D4.In_Order.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/Common_ancestor.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/Common_ancestor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/BabyGin_perm.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Binarysearch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Node_Addition.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.09/(1231)중위순회.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.09/(1248)공통조상.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Tree/Tree Basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Heap/Heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Binary_Heap.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Heap/힙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Heap/연습3_트리순회.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/subtree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Sachik.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Binarysearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -959,56 +775,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
-          <folding>
-            <marker date="1568705227986" expanded="true" signature="709:716" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="832:839" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="832:916" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="1368:1720" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="1766:1773" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="2003:2102" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="2120:2127" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="2415:2422" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="2519:2526" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="3130:3320" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="3336:3343" ph="..." />
-            <marker date="1568705227986" expanded="true" signature="3469:3476" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/inputs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15390">
-          <caret line="810" column="26" lean-forward="true" selection-start-line="810" selection-start-column="26" selection-end-line="810" selection-end-column="26" />
+          <caret line="810" column="26" selection-start-line="810" selection-start-column="26" selection-end-line="810" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_함수.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_가지치기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/순열_재귀.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_완전.py">
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/부분집합_가지치기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0827.stack2/least_num.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/(1865)동철이의일분배.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0827.stack2/least_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/중복조합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/조합_계산.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/조합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_완전.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_가지치기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/min_addition.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/연습2_순열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/순열.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/순열2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/electric_cart.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/중복순열.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_최소합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <marker date="1568774443582" expanded="true" signature="64:596" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Container.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_컨테이너.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/동철이_일_분배.py">
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_전자카트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="342">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <marker date="1568785505625" expanded="true" signature="68:358" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/Docking.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_도킹.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <marker date="1568787505850" expanded="true" signature="65:228" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
