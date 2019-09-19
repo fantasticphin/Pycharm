@@ -1,4 +1,4 @@
-import sys
+import sys #순열문제 / TSP
 sys.stdin = open('electric_cart.txt')
 
 def energy(a,b,c):
