@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/류재헌_0920_분할정복/D3_완탐_최소비용.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/류재헌_0920_분할정복/최소생산.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,49 +105,58 @@
         <counts>
           <entry key="Binary_Heap" value="1" />
           <entry key="Binarysearch" value="1" />
-          <entry key="py" value="130" />
-          <entry key="txt" value="31" />
+          <entry key="py" value="134" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Python" value="130" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="Python" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20596" />
+          <entry key="py" value="20987" />
           <entry key="txt" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="113" />
-          <entry key="Python" value="20596" />
+          <entry key="Python" value="20987" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D3_완탐_최소비용.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_가지치기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-              <folding>
-                <marker date="1568958329569" expanded="true" signature="65:70" ph="..." />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Teachers Solution/09.18/(5189)전자카트.py">
+        <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <marker date="1568967994178" expanded="true" signature="65:99" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,8 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.7 Gaza/Tree/In_order.txt" />
-        <option value="$PROJECT_DIR$/3.7 Gaza/Tree/Common_ancestor.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Tree/D4.In_Order.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Tree/Common_ancestor.py" />
         <option value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.txt" />
@@ -229,6 +236,8 @@
         <option value="$PROJECT_DIR$/류재헌_0920_분할정복/D3_분할정복_병합정렬.py" />
         <option value="$PROJECT_DIR$/류재헌_0920_분할정복/최소생산.txt" />
         <option value="$PROJECT_DIR$/류재헌_0920_분할정복/D3_완탐_최소비용.py" />
+        <option value="$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.txt" />
+        <option value="$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.py" />
       </list>
     </option>
   </component>
@@ -296,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D3_완탐_최소비용">
+  <component name="RunManager" selected="Python.D4_선반높이">
     <configuration name="병합정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -381,7 +390,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="응용_D3_최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="D4_선반높이" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,11 +398,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0920_분할정복" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/응용_D3_최소합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -466,19 +475,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.응용_D3_최소합" />
       <item itemvalue="Python.병합정렬" />
       <item itemvalue="Python.D3_퀵" />
       <item itemvalue="Python.D3_분할정복_병합정렬" />
       <item itemvalue="Python.D3_완탐_최소비용" />
+      <item itemvalue="Python.D4_선반높이" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.D3_완탐_최소비용" />
+        <item itemvalue="Python.D4_선반높이" />
         <item itemvalue="Python.D3_분할정복_병합정렬" />
+        <item itemvalue="Python.D3_완탐_최소비용" />
         <item itemvalue="Python.D3_퀵" />
         <item itemvalue="Python.병합정렬" />
-        <item itemvalue="Python.응용_D3_최소합" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568945765852</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="'20.Sep.2019 update'">
+      <created>1568958358900</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568958358900</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -738,20 +754,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/류재헌_0916_Start/Binary_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -873,12 +875,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_완전.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_가지치기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/류재헌_0918_완전검색_탐욕 알고리즘/min_addition.txt">
@@ -1022,16 +1018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D3_분할정복_병합정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <marker date="1568945646518" expanded="true" signature="488:687" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/최소생산.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1053,12 +1039,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D3_분할정복_병합정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <marker date="1568945646518" expanded="true" signature="488:687" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D3_완탐_최소비용.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="323">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
             <marker date="1568958329569" expanded="true" signature="65:70" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_가지치기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/류재헌_0920_분할정복/D4_선반높이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <marker date="1568967994178" expanded="true" signature="65:99" ph="..." />
           </folding>
         </state>
       </provider>
