@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393e6598-2275-4e07-81c6-85603b67b5c5" name="Default Changelist" comment="'10.Sep.2019 update'">
+      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/backpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/coin2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/류재헌_0910_Tree.Heap/류재헌_0910.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.7 Gaza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 Gaza/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,37 +58,38 @@
     <session id="1508246724">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="10" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Crop_Harvest" value="1" />
-          <entry key="py" value="163" />
+          <entry key="py" value="167" />
           <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="163" />
+          <entry key="Python" value="167" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="py" value="28800" />
+          <entry key="py" value="29924" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="28800" />
+          <entry key="Python" value="29924" />
         </counts>
       </usages-collector>
     </session>
@@ -132,22 +133,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py">
+        <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/backpack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <marker date="1568103873476" expanded="true" signature="53:382" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/사칙연산.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="234">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -173,8 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.txt" />
-        <option value="$PROJECT_DIR$/SWEA D2/Array_Spin.py" />
         <option value="$PROJECT_DIR$/SWEA D2/Crop_Harvest.txt" />
         <option value="$PROJECT_DIR$/JungOl/Control.135.py" />
         <option value="$PROJECT_DIR$/JungOl/Control.136.py" />
@@ -224,11 +211,14 @@
         <option value="$PROJECT_DIR$/3.7 Gaza/Heap/힙.py" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/Sachik.txt" />
         <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/D4.1232.SACHIK.py" />
+        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/coin2.py" />
+        <option value="$PROJECT_DIR$/3.7 Gaza/Algorithm/backpack.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="854" />
+    <option name="y" value="87" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -253,13 +243,7 @@
             <path>
               <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="3.7 Gaza" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="류재헌_0910_Tree.Heap" type="462c0819:PsiDirectoryNode" />
+              <item name="Teachers Solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,28 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D4.1232.SACHIK">
-    <configuration name="힙" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Heap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Heap/힙.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.backpack">
     <configuration name="Binary_Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -374,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Node_Addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="backpack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,11 +345,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/류재헌_0910_Tree.Heap/Node_Addition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Algorithm/backpack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coin2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Gaza/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Gaza/Algorithm/coin2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,18 +381,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Binarysearch" />
-      <item itemvalue="Python.Node_Addition" />
       <item itemvalue="Python.Binary_Heap" />
-      <item itemvalue="Python.힙" />
       <item itemvalue="Python.D4.1232.SACHIK" />
+      <item itemvalue="Python.coin2" />
+      <item itemvalue="Python.backpack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.backpack" />
+        <item itemvalue="Python.coin2" />
         <item itemvalue="Python.D4.1232.SACHIK" />
         <item itemvalue="Python.Binary_Heap" />
         <item itemvalue="Python.Binarysearch" />
-        <item itemvalue="Python.힙" />
-        <item itemvalue="Python.Node_Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -455,15 +439,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="854" y="87" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1741453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2767094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24451755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24451755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30592105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,31 +570,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA D2/sudoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.05/(2805)농작물 수확하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teachers Solution/09.05/(1974)스도쿠검증.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/ladder.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/SWEA/Connect.Numbers.py" />
     <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/Listing.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -687,20 +646,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="712" selection-start-line="712" selection-end-line="712" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/parse.py" />
     <entry file="file://$PROJECT_DIR$/JungOl/Control.141.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -840,7 +787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/subtree.py">
+    <entry file="file://$PROJECT_DIR$/류재헌_0910_Tree.Heap/Subtree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
@@ -886,9 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -896,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,9 +861,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <marker date="1568103873476" expanded="true" signature="53:382" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/coin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teachers Solution/완전검색/부분집합_완전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" selection-start-line="23" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/coin2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/구미_1반_윤명훈/p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 Gaza/Algorithm/backpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
